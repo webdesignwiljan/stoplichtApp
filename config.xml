@@ -36,10 +36,12 @@
 	<gap:splash src="laphonegap_splash.jpg" gap:platform="winphone" />
 	
 	<preference name="Fullscreen" value="true" />
-	<preference name="Orientation" value="landscape" />
+	<preference name="Orientation" value="portrait" />
 	<preference name="DisallowOverscroll" value="true"/>
 	<preference name="SplashScreen" value="splash" />
 	<preference name="SplashScreenDelay" value="10000" />
+	<preference name="KeepRunning" value="false"/>
+	<preference name="ShowTitle" value="false"/>
 
     <name>StoplichtApp</name>
 
