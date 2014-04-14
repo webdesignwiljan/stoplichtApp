@@ -19,7 +19,7 @@
     <!-- versionCode is optional and Android only -->
     
     <!-- define which version of phonegap to use, not required -->
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.6.0" />
 	
 	<!-- this app will have no device api access -->
 	<preference name="permissions" value="none"/>
